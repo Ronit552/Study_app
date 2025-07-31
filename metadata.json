@@ -1,0 +1,5 @@
+{
+  "name": "Focus Flow - Study & Code Timer",
+  "description": "A comprehensive focus timer application designed for studying and coding. It features daily timers, progress tracking, goal setting, and motivational tools to enhance productivity. All data is stored locally.",
+  "requestFramePermissions": []
+}
